@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    heroku-api-postgres (0.11.2)
+    heroku-api-postgres (0.11.3)
       platform-api
 
 GEM
